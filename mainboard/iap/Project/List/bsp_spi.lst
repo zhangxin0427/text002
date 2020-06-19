@@ -1,0 +1,8 @@
+L 1 "..\User\bsp\src\bsp_spi.c"
+N#include "bsp_spi.h"
+L 1 "..\User\bsp\inc\bsp_spi.h" 1
+N
+N#ifndef __BSP_SPI_H
+N#define __BSP_SPI_H
+C "..\User\bsp\inc\bsp_spi.h" 4 17 cannot open source input file "bsp.h": No such file or directory
+N#include "bsp.h"
